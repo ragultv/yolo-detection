@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 # Load the pretrained YOLO model
-model_path = "yolov8n.pt"
+model_path = "trained model"
 model = YOLO(model_path)
 
 # Load an image
