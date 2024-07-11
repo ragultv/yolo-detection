@@ -1,0 +1,7 @@
+path: "C:/Users/tragu/Downloads/yolo detection/data" # dataset root directory
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# classes
+names:
+  0: dog
